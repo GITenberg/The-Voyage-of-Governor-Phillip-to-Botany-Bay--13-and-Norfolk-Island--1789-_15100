@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Phillip
 description: With an introduction and annotations by James J. AuchmutyOriginally published
   in 1789.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15100#The-Voyage-of-Governor-Phillip-to-Botany-Bay--13-and-Norfolk-Island--1789-
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2005-02-18'
 gutenberg_type: Text
