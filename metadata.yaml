@@ -1,0 +1,33 @@
+_repo: The-Voyage-of-Governor-Phillip-to-Botany-Bay--13-and-Norfolk-Island--1789-_15100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillip, Arthur
+    alias: Philipp, Arthur
+    birthdate: 1738
+    deathdate: 1814
+    gutenberg_agent_id: '5854'
+    url: http://www.gutenberg.org/2009/agents/5854
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Phillip
+description: With an introduction and annotations by James J. AuchmutyOriginally published
+  in 1789.
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Australia -- New South Wales'
+- !lcsh 'New South Wales -- Discovery and exploration'
+- !lcsh 'Norfolk Island'
+- !lcc 'DU'
+title: "The Voyage of Governor Phillip to Botany Bay\r\nWith an Account of the Establishment\
+  \ of the Colonies of Port Jackson\r\nand Norfolk Island (1789)"
+url: http://www.gutenberg.org/ebooks/15100
